@@ -1,1 +1,1 @@
-https://adaltonp-cloud.github.io/Bu/
+https://adaltonp-cloud.github.io/
